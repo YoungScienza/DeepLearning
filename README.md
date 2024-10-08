@@ -3,11 +3,11 @@ These are the Colab Notebooks from the MIT Intro to DeepLearning course. They ar
 
 ## Topics
 
-### LAB1:
+### LAB 1:
 1) Basics of TensorFlow, tensor's logic, how to build a NN with Seqential API
 2) Music generation using RNN.
 
 
-### LAB2:
+### LAB 2:
 1) Handwrite recognition by training a CNN in MNIST database.
 2) Facial recognition with CNN and debiasing of CNN with Variatonal Autoencoders (VAE)
